@@ -1,5 +1,5 @@
 
-CodeKata-sort_algorithms  
+#Sort algorithms  
 written in java
 
 ---------
